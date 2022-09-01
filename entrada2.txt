@@ -1,0 +1,5 @@
+4
+(\wedge \neg b 2 3 \rightarrow 2)
+(\leftrightarrow a b)
+(a \leftrightarrow b)
+(\neg a (\wedge g e))

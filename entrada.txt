@@ -1,0 +1,9 @@
+8
+(\neg a b)
+T
+TF
+(\neg a
+(\neg a)
+(\neg a \vee b d)
+(\vee b 2 \ee d)
+(\wedge b 2 \rightarrow 3 2)

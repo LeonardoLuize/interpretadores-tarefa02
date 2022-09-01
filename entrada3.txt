@@ -1,0 +1,5 @@
+4
+(\neg a \rightarrow \neg b )
+(a \rightarrow b )
+(\neg a \rightarrow b )
+(\neg a \leftrightarrow \neg b )
