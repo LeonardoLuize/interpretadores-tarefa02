@@ -1,5 +1,5 @@
 4
-(\neg a \rightarrow \neg b )
-(a \rightarrow b )
-(\neg a \rightarrow b )
-(\neg a \leftrightarrow \neg b )
+(\rightarrow 2 4 )
+(\neg @ )
+(\rightarrow b 3)
+(\neg a )

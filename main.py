@@ -67,18 +67,18 @@ def verify(line):
     isValid = False
 
   sentenceIndex = 0
-  print(sentence)
-  print(len(sentence))
   for string in sentence:
     if string == "AbreParen":
       if not verifyFormula(sentence, sentenceIndex):
         isValid = False
         break
-
-    if len(sentence) != 1:
-      if string != "Constante" or string != "Proposicao":
-        isValid = False
+      else:
         break
+    else:
+      if len(sentence) != 1:
+        if string != "Constante" or string != "Proposicao":
+          isValid = False
+          break
       
     
 
